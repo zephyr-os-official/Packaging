@@ -1,0 +1,8 @@
+{
+    "name": "Example",
+    "developer": "LOAD",
+    "package_meta": "(leave blank if you do not have authorization key)",
+    "main_file": "main.py",
+    "required_packages": ["colorama"],
+    "version": "1.0.0"
+}
