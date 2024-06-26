@@ -1,4 +1,4 @@
-# in this file needs to be written what it will be doing. Basicly the whole logic. It can be in .exe or in .py
+# in this file needs to be written what it will be doing. Basicly the whole logic. The print statement is basicly the response to the command.
 import colorama
 from colorama import Fore
 
