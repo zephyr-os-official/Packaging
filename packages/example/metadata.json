@@ -1,7 +1,7 @@
 {
     "name": "Example",
     "developer": "LOAD",
-    "package_meta": "(leave blank if you do not have authorization key)",
+    "package_meta": "1234",
     "required_packages": ["colorama"],
     "version": "1.0.0"
 }
